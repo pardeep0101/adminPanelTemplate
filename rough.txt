@@ -1,3 +1,4 @@
-this is a stable project. 
+this is a stable projt. 
 merge try
 Adding new features
+this is a new C feature
