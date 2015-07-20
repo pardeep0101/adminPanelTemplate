@@ -1,1 +1,3 @@
-this is a stable project. Adding new features
+this is a stable project. 
+merge try
+Adding new features
