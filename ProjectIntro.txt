@@ -1,1 +1,3 @@
-This is a stable project. on qa added
+This is a stable project. On dev added.
+
+on qa added
