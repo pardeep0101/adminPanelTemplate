@@ -1,1 +1,1 @@
-this is a stable project
+this is a stable project. Adding new features
